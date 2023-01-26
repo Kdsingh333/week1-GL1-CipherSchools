@@ -50,5 +50,5 @@ package main
  }
 
  func main(){
-	fmt.Println(RotationCipher('org'))
+	fmt.Println(RotationCipher("org"))
  }
